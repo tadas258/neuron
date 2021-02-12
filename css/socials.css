@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.tool-bar-area {
+  width: 1200px;
+}
+.info-socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 10px;
+}
+.contacts > a {
+  background-color: rgb(61, 126, 126);
+  width: 20%;
+}
+.socials {
+  background-color: black;
+  width: 10%;
+}
+.sliding-menu {
+  background-color: rgb(190, 165, 214);
+  width: 1200px;
+}
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 25px 10px;
+}
+.nav-bar > img {
+  width: 10%;
+}
+.nav-bar > .nav-links {
+  width: 40%;
+}
